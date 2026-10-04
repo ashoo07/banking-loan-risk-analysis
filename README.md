@@ -87,7 +87,7 @@ screenshots/<img width="884" height="499" alt="loan-analysis" src="https://githu
 
 screenshots/<img width="767" height="430" alt="deposit-analysis" src="https://github.com/user-attachments/assets/88bf647c-15ef-48d3-a123-675e6ba26aef" />
 
-screenshots/<img width="753" height="425" alt="summary-dashboard" src="https://github.com/user-attachments/assets/088f7cf0-4283-444b-b313-7d6d55b19c23" />
+<img width="753" height="425" alt="summary-dashboard" src="https://github.com/user-attachments/assets/088f7cf0-4283-444b-b313-7d6d55b19c23" />
 
 
 
